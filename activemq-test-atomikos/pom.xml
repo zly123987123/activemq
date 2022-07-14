@@ -78,7 +78,7 @@
     <dependency>
       <groupId>com.atomikos</groupId>
       <artifactId>transactions-jta</artifactId>
-      <version>3.1.0</version>
+      <version>5.0.9</version>
     </dependency>
     <dependency>
       <groupId>com.atomikos</groupId>
